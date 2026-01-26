@@ -29,16 +29,16 @@ inventory efficiency for data-driven business decision-making.
 ## Dashboard Preview
 
 ### Home
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Sales
-![Sales](screenshots/sales.png)
+![Sales](sales.png)
 
 ### Marketing
-![Marketing](screenshots/marketing.png)
+![Marketing](marketing.png)
 
 ### Inventory
-![Inventory](screenshots/inventory.png)
+![Inventory](inventory.png)
 
 ## Tools Used
 - Microsoft Excel
