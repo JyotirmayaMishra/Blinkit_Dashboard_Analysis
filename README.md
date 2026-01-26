@@ -5,47 +5,76 @@
 # Blinkit Dashboard Analysis
 
 ## Project Overview
-This project is an interactive Excel dashboard analyzing Blinkit’s Sales,
-Marketing, and Inventory data. The project uses pivot tables, pivot charts,
-and slicers to uncover trends, evaluate campaign performance, and monitor
-inventory efficiency for data-driven business decision-making.
+This project is an interactive Excel-based dashboard created to analyze
+Blinkit’s business performance across Sales, Marketing, and Inventory
+functions. The goal of the project is to transform raw operational data
+into meaningful insights that can support data-driven business decisions.
 
+The analysis is performed using Microsoft Excel, leveraging pivot tables,
+pivot charts, slicers, and structured dashboards. Multiple dashboards are
+designed to provide a comprehensive view of sales trends, marketing campaign
+effectiveness, and inventory health, all accessible through a navigation-
+based home page.
+
+## Business Problems Addressed
+
+- Understanding sales performance across locations, products, and time periods
+- Identifying high-performing and low-performing marketing campaigns
+- Evaluating ROI, CPA, and conversion funnels across marketing channels
+- Monitoring stock levels, damaged stock, and category-wise inventory trends
+- Supporting better planning for sales growth and inventory optimization
 ## Dashboards Included
-### Sales Dashboard
-- Location-wise sales analysis
-- Product category performance
-- Monthly and quarterly trends
 
-### Marketing Dashboard
-- Campaign performance and ROI
-- Conversion funnel analysis
-- Channel-wise CPA
+### Home Dashboard
+- Central navigation to access Sales, Marketing, and Inventory dashboards
+
+### Sales Analysis Dashboard
+- Location-wise and category-wise sales performance
+- Monthly and quarterly sales trends
+- Channel-wise sales contribution
+- Customer segment analysis based on order value
+
+### Marketing Analysis Dashboard
+- Campaign effectiveness and engagement analysis
+- ROI, revenue generated, and CPA metrics
+- Marketing funnel analysis (Impressions → Clicks → Conversions)
+- Channel-wise and customer segment performance
 
 ### Inventory Dashboard
-- Stock levels and damaged stock
-- Category-wise inventory trends
-- Min vs max stock analysis
+- Top stocked products and category distribution
+- Min stock vs max stock comparison
+- Damaged stock percentage analysis
+- Category-wise inventory trends over time
 
 ## Dashboard Preview
 
 ### Home
-![Home](home.png)
+![Home](Home.png)
 
 ### Sales
-![Sales](sales.png)
+![Sales](Sales.png)
 
 ### Marketing
 ![Marketing](marketing.png)
 
 ### Inventory
-![Inventory](inventory.png)
+![Inventory](Inventory.png)
+## Tools & Skills Used
 
-## Tools Used
 - Microsoft Excel
+- Data Cleaning & Preparation
 - Pivot Tables
 - Pivot Charts
-- Slicers
+- Slicers & Filters
 - Dashboard Design
+- Business Data Analysis
+## Key Learnings
+
+- Designed end-to-end Excel dashboards for real-world business scenarios
+- Improved ability to analyze data across multiple business functions
+- Learned to translate data into actionable business insights
+- Enhanced skills in Excel-based visualization and storytelling
+
 
 ## Author
 Jyotirmaya Mishra
