@@ -47,18 +47,36 @@ based home page.
 - Category-wise inventory trends over time
 
 ## Dashboard Preview
-
-### Home
+## 🏠 Home Dashboard
 ![Home](Home.png)
 
-### Sales
+- Central navigation hub enabling quick access to Sales, Marketing, and Inventory dashboards.
+- Designed for a high-level overview and smooth dashboard-to-dashboard movement.
+
+---
+
+## 📊 Sales Dashboard
 ![Sales](Sales.png)
 
-### Marketing
+- Identifies location-wise sales performance, highlighting top and low-performing regions.
+- Reveals product and category trends to support revenue growth and sales optimization.
+
+---
+
+## 📢 Marketing Dashboard
 ![Marketing](marketing.png)
 
-### Inventory
+- Evaluates campaign effectiveness using conversions, ROI, and revenue generated.
+- Highlights high-performing marketing channels and customer engagement patterns.
+
+---
+
+## 📦 Inventory Dashboard
 ![Inventory](Inventory.png)
+
+- Compares minimum vs maximum stock levels to identify overstock and stockout risks.
+- Tracks damaged stock and category-wise inventory trends to improve inventory planning.
+
 ## Tools & Skills Used
 
 - Microsoft Excel
