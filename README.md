@@ -23,6 +23,84 @@ based home page.
 - Evaluating ROI, CPA, and conversion funnels across marketing channels
 - Monitoring stock levels, damaged stock, and category-wise inventory trends
 - Supporting better planning for sales growth and inventory optimization
+
+  ## 🏠 Home Dashboard
+![Home](Home.png)
+
+- Central navigation hub enabling quick access to Sales, Marketing, and Inventory dashboards.
+- Designed for a high-level overview and smooth dashboard-to-dashboard movement.
+
+## 💰 Sales KPI Dashboard
+![Sales](sales_dash.png)
+
+Overview
+The Sales KPI Dashboard delivers insights into revenue performance, customer behavior,
+and sales channel effectiveness. It helps stakeholders track sales trends and identify
+growth opportunities across regions and customer segments.
+
+Key Insights
+
+Provides location-wise sales analysis, highlighting high- and low-performing regions.
+
+Identifies top-selling products and categories, enabling focused sales strategies.
+
+Analyzes sales trends over time (monthly and quarterly) to detect seasonality
+and growth patterns.
+
+Evaluates sales channel performance across App, Email, SMS, and Social Media.
+
+## 📢 Marketing KPI Dashboard
+![Marketing](marketing_dash.png)
+
+
+Overview
+The Marketing KPI Dashboard evaluates the effectiveness of marketing campaigns
+across multiple channels. It focuses on understanding customer engagement,
+conversion behavior, and revenue contribution from different marketing strategies.
+
+Key Insights
+
+Measures campaign performance using key metrics such as conversions, ROI,
+and revenue generated.
+
+Compares effectiveness across multiple channels including App, Email,
+SMS, and Social Media.
+
+Identifies high-performing campaigns that drive maximum engagement and revenue.
+
+Analyzes customer segments (New, Premium, Inactive) to understand which
+audiences respond best to specific campaigns.
+
+Supports optimization of marketing spend by linking cost, engagement,
+and revenue outcomes.
+
+## 📦 Inventory KPI Dashboard
+![Inventory](inventory_dash.png)
+
+
+Overview
+The Inventory KPI Dashboard provides a comprehensive view of stock management across
+products and categories. It is designed to help identify stock availability,
+overstocking risks, and inventory inefficiencies that directly impact operations
+and customer satisfaction.
+
+Key Insights
+
+Highlights the top 10 most stocked products, enabling better demand forecasting
+and procurement planning.
+
+Compares minimum vs maximum stock levels to quickly identify understocked
+and overstocked items.
+
+Analyzes damaged stock percentage by category, helping reduce wastage and
+improve inventory handling efficiency.
+
+Tracks category-wise inventory trends over time, supporting data-driven
+inventory optimization decisions.
+
+
+
+
 ## Dashboards Included
 
 ### Home Dashboard
@@ -47,14 +125,8 @@ based home page.
 - Category-wise inventory trends over time
 
 ## Dashboard Preview
-## 🏠 Home Dashboard
-![Home](Home.png)
-
-- Central navigation hub enabling quick access to Sales, Marketing, and Inventory dashboards.
-- Designed for a high-level overview and smooth dashboard-to-dashboard movement.
 
 ---
-
 ## 📊 Sales Dashboard
 ![Sales](Sales.png)
 
